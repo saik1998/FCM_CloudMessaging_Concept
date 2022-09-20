@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325235392241",
+    "project_id": "fcm-cloudmessaging-concept",
+    "storage_bucket": "fcm-cloudmessaging-concept.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325235392241:android:939c3495309243e4633350",
+        "android_client_info": {
+          "package_name": "com.firstapp.fcm_cloudmessaging_concept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325235392241-6smdg6q4naj8m6noet8qsdh4o0d5kufp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstapp.fcm_cloudmessaging_concept",
+            "certificate_hash": "b8eca09c2fde6657419ca8d954d9ee446c3bf8c1"
+          }
+        },
+        {
+          "client_id": "325235392241-h5kj8ftsp98dqqvju5n0a0hp0e6lsq12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0s0cSnLTJv2TeEDk7-TJjAz0YT3eEpEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325235392241-h5kj8ftsp98dqqvju5n0a0hp0e6lsq12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

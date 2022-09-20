@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM_CloudMessaging_Concept</string>
+    <string name="msg_token_fmt">FCM registration token %s</string>
+</resources>
